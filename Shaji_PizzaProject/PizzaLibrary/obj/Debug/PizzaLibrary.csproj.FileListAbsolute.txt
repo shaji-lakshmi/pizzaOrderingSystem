@@ -1,0 +1,6 @@
+C:\Users\Lakshmi\Documents\3342\Shaji_PizzaProject\PizzaLibrary\bin\Debug\PizzaLibrary.dll
+C:\Users\Lakshmi\Documents\3342\Shaji_PizzaProject\PizzaLibrary\bin\Debug\PizzaLibrary.pdb
+C:\Users\Lakshmi\Documents\3342\Shaji_PizzaProject\PizzaLibrary\obj\Debug\PizzaLibrary.csprojAssemblyReference.cache
+C:\Users\Lakshmi\Documents\3342\Shaji_PizzaProject\PizzaLibrary\obj\Debug\PizzaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lakshmi\Documents\3342\Shaji_PizzaProject\PizzaLibrary\obj\Debug\PizzaLibrary.dll
+C:\Users\Lakshmi\Documents\3342\Shaji_PizzaProject\PizzaLibrary\obj\Debug\PizzaLibrary.pdb

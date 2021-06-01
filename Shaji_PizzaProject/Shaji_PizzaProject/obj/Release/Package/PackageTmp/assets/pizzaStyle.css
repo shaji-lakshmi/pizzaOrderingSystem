@@ -1,0 +1,34 @@
+﻿body{
+    background-color: darksalmon;
+}
+alert{
+    background-color: yellow;
+    color: orangered;
+    font-size: 24px;
+}
+p{
+    font-weight:bolder;
+}
+.container{
+    padding:5%;
+}
+
+#lblWarning, #lblManagement {
+    font-size:25px;
+    color: white;
+    margin-left:25%;
+    width:50%;
+    padding: 10px;
+    border: double white 10px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: double white 10px;
+}
+
+#management{
+    text-align:center;
+}
